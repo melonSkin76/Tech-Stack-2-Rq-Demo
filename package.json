@@ -1,0 +1,21 @@
+{
+  "name": "full_stack_example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.15.0",
+    "codehooks-crudlify": "^1.0.8",
+    "codehooks-js": "^1.0.10",
+    "jwt-decode": "^3.1.2",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "^1.0.2"
+  }
+}

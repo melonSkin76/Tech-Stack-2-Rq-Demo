@@ -1,0 +1,76 @@
+[
+  [
+    "groups",
+    {
+      "1876838268f-tlqgzoyzr4rjon": {
+        "name": "MaryJ",
+        "_id": "1876838268f-tlqgzoyzr4rjon"
+      },
+      "187683a6eff-ufa3nrtrmchsjv": {
+        "name": "Frogs",
+        "_id": "187683a6eff-ufa3nrtrmchsjv"
+      },
+      "187683ac111-vup2xa4yhu4rtp": {
+        "name": "Capsule",
+        "_id": "187683ac111-vup2xa4yhu4rtp"
+      },
+      "187683adc0e-ujxu11gvk0w5d5": {
+        "name": "The Internet Explorers",
+        "_id": "187683adc0e-ujxu11gvk0w5d5"
+      },
+      "187683ae7e8-54ub5uoeb8ymi4": {
+        "name": "Team Spirit",
+        "_id": "187683ae7e8-54ub5uoeb8ymi4"
+      },
+      "187683aef39-23w3ybdz2mucfb": {
+        "name": "Six Pack",
+        "_id": "187683aef39-23w3ybdz2mucfb"
+      },
+      "187683af813-lgm03fzbdmrk32": {
+        "name": "Google It",
+        "_id": "187683af813-lgm03fzbdmrk32"
+      },
+      "187683b0074-6yz4zdq3hyr1ct": {
+        "name": "Code Titans",
+        "_id": "187683b0074-6yz4zdq3hyr1ct"
+      },
+      "187683b0ba0-iatdzfme22kkwx": {
+        "name": "The Five Guys",
+        "_id": "187683b0ba0-iatdzfme22kkwx"
+      },
+      "187683b15da-69vlbi6shm033m": {
+        "name": "Upper Five",
+        "_id": "187683b15da-69vlbi6shm033m"
+      },
+      "187683b2248-yxonjga2ms6kjn": {
+        "name": "The Runtime Terrors",
+        "_id": "187683b2248-yxonjga2ms6kjn"
+      },
+      "187683b29b8-pm6lxpuc93gjnp": {
+        "name": "Team Skins",
+        "_id": "187683b29b8-pm6lxpuc93gjnp"
+      },
+      "187683b457c-zkkd2p8mf3j3y9": {
+        "name": "BookTok",
+        "_id": "187683b457c-zkkd2p8mf3j3y9"
+      }
+    }
+  ],
+  [
+    "_dbmetadata",
+    {}
+  ],
+  [
+    "pres",
+    {
+      "1876857447a-cm6dbtohy8rq4u": {
+        "createdOn": "2023-04-09T23:26:02.357Z",
+        "userId": "user_2OCy6ZMUFaunDAen2o0BXzukzWv",
+        "score": "5",
+        "notes": "apples",
+        "group": "MaryJ",
+        "_id": "1876857447a-cm6dbtohy8rq4u"
+      }
+    }
+  ]
+]
